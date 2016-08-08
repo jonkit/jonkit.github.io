@@ -1,15 +1,21 @@
 // Layout
-//
-// Styles for managing the structural hierarchy of the site.
 
-.container {
-  max-width: 38rem;
-  padding-left:  1.5rem;
-  padding-right: 1.5rem;
-  margin-left:  auto;
-  margin-right: auto;
+.masthead {padding-top: 1rem;padding-bottom: 1rem;margin-bottom: 3rem;background: #201F5B;}
+
+.masthead-title {margin-top: 0; margin-bottom: 0;color: #fff;text-align: center;
+  a {color: inherit;}
+  a:hover {background: none;text-decoration: underline;}
+  small {font-size: 75%;font-weight: 400;}
 }
 
-footer {
-  margin-bottom: 2rem;
+.container {max-width: 38rem;padding-left:  1.5rem;padding-right: 1.5rem;margin-left:  auto;margin-right: auto;}
+
+.page,.post {margin-bottom: 4em;
+  li + li {margin-top: .25rem;}
 }
+
+.pagination {text-align: center;}
+
+footer {margin-bottom: 2rem;}
+
+.footer {text-align: center;}
