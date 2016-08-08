@@ -3,28 +3,18 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+This is my page. I use it to share miscellaneous media that I enjoy and/or consider noteworthy. It has been set-up to be as hands-off and low-maintenance as possible. If you wish to [contact me](mailto:msg@theonlysiteever.com), please feel free.  
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Relevant technical and logistical information that one might find interesting:  
 
-There are currently two themes built on Poole:
++ This page is hosted on [GitHub Pages](http://pages.github.com)  
++ It uses [Jekyll](http://jekyllrb.com) as the blogging engine  
++ I followed an assortment of [how-tos](http://www.practicallyefficient.com/2016/04/03/static-and-free.html), [guides](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/), and [walkthroughs](http://joshualande.com/jekyll-github-pages-poole) to set-up and tweak the site but started with the [poole GitHub repo](https://github.com/poole)  
++ Content is written and posted exclusively from [iOS](http://www.apple.com/ca/ios/) using my [iPhone](http://www.apple.com/ca/iphone/) and [iPad Pro](http://www.apple.com/ca/ipad/) using [Drafts](http://agiletortoise.com/drafts/) and the [Octopage](https://itunes.apple.com/cn/app/octopage-blogging-jekyll-markdown/id649843345?mt=8) app  
++ Photos are taken with those two devices and occasionally my camera, an [Olympus OMD-E10](https://www.dpreview.com/reviews/olympus-om-d-e-m10)  
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+There are many sites that I draw on for inspiration, in terms of content, style, and general approach to blogging. Check them out:  
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
++ [Daring Fireball](http://daringfireball.net)
++ [Brooks Review](http://brooksreview.net)  
++ [The Loop](http://loopinsight.com)  
