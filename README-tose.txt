@@ -43,3 +43,8 @@ Any change to categories will impact the following files:
 + feed for all content (`post`, `linked-list`, `photo`, and `briefly`) with all items pointing back to this website
 
 Use HTML codes for characters to show up in the RSS feed (hex code elsewhere)
+
+### Posts
+
++ use `categories:` in the YAML to specify which category the post will be linked with
++ add `external-url` to linked-list posts to ensure they work within the template language
