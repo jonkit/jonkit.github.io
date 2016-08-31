@@ -49,3 +49,11 @@ Use HTML codes for characters to show up in the RSS feed (hex code elsewhere)
 + use `categories:` in the YAML to specify which category the post will be linked with
 + add `external-url` to linked-list posts to ensure they work within the template language
 + add `permalink: short-url` where `short-url` is the link you want to use for the post
++ YAML Front Matter placeholder in Octopage.app is as follows:
+---
+layout: post  
+title: "Title"  
+permalink: short-url-here  
+categories: post linked-list photo briefly
+external-url: removeifnolink
+---
