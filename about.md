@@ -17,4 +17,4 @@ There are many sites that I draw on for inspiration, in terms of content, style,
 
 + [Daring Fireball](http://daringfireball.net)
 + [Brooks Review](http://brooksreview.net)  
-+ [The Loop](http://loopinsight.com)  
++ [Marco.org](http://marco.org)  
