@@ -40,18 +40,23 @@ Any change to categories will impact the following files:
 
 + feed for just the main page (`post` and `linked-list`) where `linked-list` items point to the source
 + feed for just the main page (`post` and `linked-list`) where `linked-list` items point back this website
++ feed for just the photos  
++ feed for just the briefly snippets
 + feed for all content (`post`, `linked-list`, `photo`, and `briefly`) with all items pointing back to this website
 
 Use HTML codes for characters to show up in the RSS feed (hex code elsewhere)
 
 ### Posts
 
-+ use `categories:` in the YAML to specify which category the post will be linked with
-+ add `external-url` to linked-list posts to ensure they work within the template language
-+ add `permalink: short-url` where `short-url` is the link you want to use for the post
++ file name to be YYYY-MM-DD-title-of-the-post.md (or YYYY-MM-DD-briefly-title-of-the-post.md for Briefly entries)
++ layout: use `post` for all entries except Briefly, which uses `briefly`
++ title: title the document as it would appear in the permalink on the main page
++ permalink: short-url-here is replaced with hyphenated text matching the post file name (without the date)
++ categories: specify which category the post will be associated with
++ external-url: only used for linked-list posts and entire line should removed for other posts
 + YAML Front Matter placeholder in Octopage.app is as follows:
 ---
-layout: post  
+layout: post briefly  
 title: "Title"  
 permalink: short-url-here  
 categories: post linked-list photo briefly
