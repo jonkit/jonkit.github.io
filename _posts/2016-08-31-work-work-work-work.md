@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: briefly
 title: "Work, work, work, work"
 permalink: work-work-work-work
 categories: briefly
