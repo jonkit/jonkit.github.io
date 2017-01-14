@@ -48,7 +48,8 @@ Use HTML codes for characters to show up in the RSS feed (hex code elsewhere)
 
 ### Posts
 
-+ file name to be YYYY-MM-DD-title-of-the-post.md (or YYYY-MM-DD-briefly-title-of-the-post.md for Briefly entries)
++ file name to be YYYY-MM-DD-title-of-the-post.md 
+    + append -briefly, -ll, and -photo between DD- and -title-of-post.md for sorting purposes
 + layout: use `post` for all entries except Briefly, which uses `briefly`
 + title: title the document as it would appear in the permalink on the main page
 + permalink: short-url-here is replaced with hyphenated text matching the post file name (without the date)
@@ -60,5 +61,5 @@ layout: post briefly
 title: "Title"  
 permalink: short-url-here  
 categories: post linked-list photo briefly
-external-url: removeifnolink
+external-url: removethiswholelineifnolink
 ---
