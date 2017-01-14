@@ -3,6 +3,7 @@ layout: page
 title: Archive
 ---
 
+<!-- Removing this because I want to use Breifly as a Twitter replacement via Micro.blog and it would clutter the content
 ## All Entries
 
 {% for post in site.posts %}
@@ -12,6 +13,7 @@ title: Archive
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endif %}
 {% endfor %}
+-->
 
 ## Just Posts
 
