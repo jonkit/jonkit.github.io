@@ -2,6 +2,6 @@
 layout: photos
 title: "Friends Drawing"  
 permalink: friends-drawing  
-categories: photo
+categories: photos
 ---
 ![Friends Drawing](http://jonkit.ca/cdn/friends-drawing.jpeg)
