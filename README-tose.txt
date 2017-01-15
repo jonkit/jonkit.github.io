@@ -50,14 +50,14 @@ Use HTML codes for characters to show up in the RSS feed (hex code elsewhere)
 
 + file name to be YYYY-MM-DD-title-of-the-post.md 
     + append -briefly, -ll, and -photo between DD- and -title-of-post.md for sorting purposes
-+ layout: use `post` for all entries except Briefly, which uses `briefly`
++ layout: use `post` for all entries except Briefly and Photos, which uses `briefly` and `photos`  
 + title: title the document as it would appear in the permalink on the main page
 + permalink: short-url-here is replaced with hyphenated text matching the post file name (without the date)
 + categories: specify which category the post will be associated with
 + external-url: only used for linked-list posts and entire line should removed for other posts
 + YAML Front Matter placeholder in Octopage.app is as follows:
 ---
-layout: post briefly  
+layout: post briefly photos  
 title: "Title"  
 permalink: short-url-here  
 categories: post linked-list photo briefly
