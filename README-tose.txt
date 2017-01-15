@@ -8,14 +8,14 @@ There are four categories:
 
 + post  
 + linked-list  
-+ photo  
++ photos  
 + briefly  
 
-Both `post` and `linked-list` appear in the main feed whereas `photo` and `briefly` have their own page and are available on Archive page.  
+Both `post` and `linked-list` appear in the main feed whereas `photos` and `briefly` have their own page and are available on Archive page.  
 
 post - traditional blog posts, original content
 linked-list - Daring Fireball-esque snippets and brief comment(s) linking to other content 
-photo - my own private Instagram, hopefully providing me a reason to take and edit more photos
+photos - my own private Instagram, hopefully providing me a reason to take and edit more photos
 briefly - my attempt at one-off quips and random thoughts 
 
 Any change to categories will impact the following files:  
@@ -60,6 +60,6 @@ Use HTML codes for characters to show up in the RSS feed (hex code elsewhere)
 layout: post briefly photos  
 title: "Title"  
 permalink: short-url-here  
-categories: post linked-list photo briefly
+categories: post linked-list photos briefly
 external-url: removethiswholelineifnolink
 ---
