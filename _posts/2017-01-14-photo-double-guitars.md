@@ -7,4 +7,4 @@ categories: photo
 
 ![Double Guitars](http://jonkit.ca/cdn/double-guitars.jpeg)
 
-Kid can shred.
+Kid can shred
