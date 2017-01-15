@@ -11,7 +11,7 @@ title: Home
 {% unless post.categories contains 'photos' %}
 
   <article class="post">
-    <h1 class="post-title">
+    <h2 class="post-title">
       {% if post.external-url %}
       <div class="linkedlist">
         <div class="linkedlist-title">
@@ -23,7 +23,7 @@ title: Home
         {{ post.title }} 
       </a>
       {% endif %}
-    </h1>
+    </h2>
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
