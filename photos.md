@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% for post in site.categories.photo %}
+{% for post in site.categories.photos %}
 
   <article class="post">
     <!-- Changed this to H4 from H1 -->
