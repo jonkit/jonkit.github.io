@@ -1,5 +1,5 @@
 ---
-layout: briefly
+layout: photos
 title: "Double Guitars"  
 permalink: double-guitar
 categories: photo
