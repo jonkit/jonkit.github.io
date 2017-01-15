@@ -12,6 +12,8 @@ layout: page
       </a>
     </h4>
 
+    {{ post.content }}
+    
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
     <!-- this is where the content was previous to the edit, it has been copied to show above the date
