@@ -15,7 +15,7 @@ layout: null
    <email>{{ site.author.email }}</email>
  </author>
 
- {% for post in site.categories.photo %}
+ {% for post in site.categories.photos %}
  {% if post.external-url %}
  <entry>
    <title>{{ post.title | xml_escape }} &#8594;</title>
