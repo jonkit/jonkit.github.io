@@ -2,7 +2,7 @@
 layout: photos
 title: "Double Guitars"  
 permalink: double-guitar
-categories: photo
+categories: photos
 ---
 
 ![Double Guitars](http://jonkit.ca/cdn/double-guitars.jpeg)
