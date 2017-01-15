@@ -6,7 +6,7 @@ layout: page
 
   <article class="post">
     <!-- Changed this to H4 from H1 -->
-    <h4 class="post-title">
+    <h4 class="post-title" align="center">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }} 
       </a>
