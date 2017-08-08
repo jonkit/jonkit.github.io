@@ -15,9 +15,9 @@ This feed contains all posts on the main page but linked-list posts will redirec
 
 This feed will only contain photos. [Subscribe](/atom-photo.xml)
 
-### Subscribe to the snippets feed
+### Subscribe to the microblog feed
 
-This feed will only contain my brief snippets on the Briefly page. [Subscribe](/atom-briefly.xml)
+This feed will only contain my brief snippets on the Briefly page. [Subscribe](/atom-microblog.xml)
 
 
 ### Subscribe to everything
