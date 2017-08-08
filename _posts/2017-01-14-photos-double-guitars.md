@@ -5,6 +5,6 @@ permalink: double-guitar
 categories: photos
 ---
 
-![Double Guitars](http://jonkit.ca/cdn/double-guitars.jpeg)
+![Double Guitars](http://jonkit.ca/cdn/photos/double-guitars.jpeg)
 
 Kid can shred
