@@ -5,6 +5,6 @@ permalink: stirfry-veggies
 categories: photos
 ---
 
-![Stirfry Veggies](http://jonkit.ca/cdn/stirfry-veggies.jpeg)
+![Stirfry Veggies](http://jonkit.ca/cdn/photos/stirfry-veggies.jpeg)
 
 Mmm
