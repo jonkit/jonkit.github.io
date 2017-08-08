@@ -19,7 +19,6 @@ layout: null
  <entry>
   <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
- {% endif %}
  {% endfor %}
 
 </feed>
