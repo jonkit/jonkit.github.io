@@ -6,7 +6,7 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>{{ site.title }} - snippets</title>
- <link href="{{ site.url }}{{ site.baseurl }}/atom-briefly.xml" rel="self"/>
+ <link href="http://theonlysiteever.com/atom-briefly.xml" rel="self"/>
  <link href="{{ site.url }}{{ site.baseurl }}/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url }}/</id>
