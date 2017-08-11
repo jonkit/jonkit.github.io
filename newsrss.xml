@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>The Only Site Ever Briefly</title>
+<link>http://theonlysiteever.com/</link>
+<description>Brief snippets of text posted to this site and Micro.blog</description>
+
+ {% for post in site.categories.briefly %}
+<item>
+<title>{{ post.title | xml_escape }}</title>
+<link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
+<guid>{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
+<pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+<description>Description for your content.</description>
+</item>
+ {% endfor %}
+ </channel>
+ </rss>
