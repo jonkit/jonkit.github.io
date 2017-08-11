@@ -16,15 +16,6 @@ layout: null
  </author>
 
  {% for post in site.categories.briefly %}
- {% if post.external-url %}
- <entry>
-   <title>{{ post.title | xml_escape }} &#8594;</title>
-   <link href="{{ post.external-url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
- </entry>
- {% else %}
  <entry>
   <title>{{ post.title | xml_escape }}</title>
   <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
@@ -32,7 +23,6 @@ layout: null
   <id>{{ site.url }}{{ post.id }}</id>
   <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
- {% endif %}
  {% endfor %}
 
 </feed>
