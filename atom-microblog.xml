@@ -17,6 +17,7 @@ layout: null
 
  {% for post in site.categories.briefly %}
  <entry>
+  <title></title>
   <updated>{{ post.date | date_to_xmlschema }}</updated>
   <id>{{ site.url }}{{ post.id }}</id>
   <content type="html">{{ post.content | xml_escape }}</content>
