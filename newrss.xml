@@ -13,7 +13,7 @@ layout: null
 <item>
 <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
 <guid>{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
-<description>{{ post.content }}</description>
+ <content type="html"><![CDATA[{{ post.content }}]]></content>
 </item>
  {% endfor %}
  </channel>
