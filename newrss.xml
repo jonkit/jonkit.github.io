@@ -14,7 +14,8 @@ layout: null
 <item>
 <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
  <guid>{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
-  <description>Description text would go here</description>
+ <pubDate>{{ post.date | date_to_rcf822 }}</pubDate>
+  <description><![CDATA[{{ post.content }}]]></description>
  <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
 </item>
  {% endfor %}
