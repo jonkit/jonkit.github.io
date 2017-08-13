@@ -7,7 +7,7 @@ layout: null
 <channel>
 <title>The Only Site Ever Briefly</title>
 <link>http://theonlysiteever.com/</link>
-<description>Brief snippets of text posted to this site and Micro.blog</description>
+<description>Brief snippets of text posted to this site</description>
 
  {% for post in site.categories.briefly %}
 <item>
