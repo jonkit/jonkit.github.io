@@ -7,7 +7,7 @@ layout: null
 <channel>
 <atom:link href="{{ site.url }}/newrss.xml" rel="self" type="application/rss+xml" />
 <title>{{ site.name | xml_escape }}</title>
-<link>{{ site.url }}</link>
+<link>{{ site.url }}/</link>
 <description>{{ site.description }}</description>
 
  {% for post in site.categories.briefly %}
