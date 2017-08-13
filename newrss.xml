@@ -7,13 +7,13 @@ layout: null
 <channel>
 <title>The Only Site Ever Briefly</title>
 <link>http://theonlysiteever.com/</link>
-<description>Brief snippets of text posted to this site</description>
+<description>Brief snippets of text posted to this sites</description>
 
  {% for post in site.categories.briefly %}
 <item>
 <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
 <guid>{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
- <content:encoded type="html"><![CDATA[{{ post.content | xml_escape }}]]</content>
+ <content type="html"><![CDATA[{{ post.content | xml_escape }}]]</content>
  <description>Brief text snippet</description>
 </item>
  {% endfor %}
