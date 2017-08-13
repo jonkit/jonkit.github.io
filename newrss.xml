@@ -15,7 +15,7 @@ layout: null
 <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
  <guid>{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
   <description>It goes here</description>
- <content:encoded><![CDATA[{{ post.content }}]]></content>
+ <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
 </item>
  {% endfor %}
  </channel>
