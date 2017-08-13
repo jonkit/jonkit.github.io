@@ -4,9 +4,11 @@ permalink:           pretty
 # Setup
 title:               the only site ever
 tagline:             
-url:                 http://jonkit.github.io
+url:                 http://theonlysiteever.com
 paginate:            8
 baseurl:             ""
+description:         An unnecssary addition to the blogosphere
+name:                the only site ever
 
 # Assets
 #
