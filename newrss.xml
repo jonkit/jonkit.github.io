@@ -14,7 +14,7 @@ layout: null
 <item>
 <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
  <guid>{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
-  <description>It goes here</description>
+  <description>Description text would go here</description>
  <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
 </item>
  {% endfor %}
