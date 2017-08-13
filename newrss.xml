@@ -5,9 +5,9 @@ layout: null
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-<atom:link href="http://theonlysiteever.com/newrss.xml" rel="self" type="application/rss+xml" />
+<atom:link href="http://jonkit.guthub.io/newrss.xml" rel="self" type="application/rss+xml" />
 <title>The Only Site Ever Briefly</title>
-<link>http://theonlysiteever.com/</link>
+<link>http://jonkit.github.io/</link>
 <description>Brief snippets of text posted to this site</description>
 
  {% for post in site.categories.briefly %}
