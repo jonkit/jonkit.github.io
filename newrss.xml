@@ -13,8 +13,7 @@ layout: null
 <item>
 <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
 <guid>{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
-<content:encoded>{{ post.content }}</content>
-<description>Brief text snippet</description>
+<description>{{ post.content }}</description>
 </item>
  {% endfor %}
  </channel>
