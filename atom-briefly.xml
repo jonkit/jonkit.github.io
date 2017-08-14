@@ -1,27 +1,23 @@
 ---
 layout: null
----
+--- 
 
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-
- <title>{{ site.title }} - snippets</title>
- <link href="http://theonlysiteever.com/atom-briefly.xml" rel="self"/>
- <link href="{{ site.url }}{{ site.baseurl }}/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}/</id>
- <author>
-   <name>{{ site.author.name }}</name>
-   <email>{{ site.author.email }}</email>
- </author>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<atom:link href="{{ site.url }}/newrss.xml" rel="self" type="application/rss+xml" />
+<title>{{ site.name | xml_escape }}</title>
+<link>{{ site.url }}/</link>
+<description>{{ site.description }}</description>
 
  {% for post in site.categories.briefly %}
- <entry>
-  <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
-  <updated>{{ post.date | date_to_xmlschema }}</updated>
-  <id>{{ site.url }}{{ post.id }}</id>
-  <content type="html">{{ post.content | xml_escape }}</content>
- </entry>
+<item>
+<link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
+ <guid>{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
+ <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+  <description><![CDATA[{{ post.content }}]]></description>
+ <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
+</item>
  {% endfor %}
-
-</feed>
+ </channel>
+ </rss>
