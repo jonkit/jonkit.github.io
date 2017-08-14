@@ -17,7 +17,7 @@ This feed will only contain photos. [Subscribe](/atom-photo.xml)
 
 ### Subscribe to the microblog feed
 
-This feed will only contain my brief snippets on the Briefly page. [Subscribe](/atom-microblog.xml)
+This feed will only contain my brief snippets on the Briefly page. [Subscribe](/atom-briefly.xml)
 
 
 ### Subscribe to everything
