@@ -25,7 +25,7 @@ Any change to categories will impact the following files:
 + photos.md 
 + briefly.md 
 + any file in the /post folder 
-+ atom-FEEDNAME.xml (all RSS feed files)
++ rss-FEEDNAME.xml (all RSS feed files)
 
 ## Structure
 
