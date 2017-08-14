@@ -5,19 +5,20 @@ layout: null
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-<atom:link href="{{ site.url }}/atom-photo-mb.xml" rel="self" type="application/rss+xml" />
-<title>{{ site.name | xml_escape }}</title>
+<atom:link href="{{ site.url }}/rss-photos-mb.xml" rel="self" type="application/rss+xml" />
+<title>{{ site.name | xml_escape }} - Photos for Micro.blog</title>
 <link>{{ site.url }}/</link>
 <description>{{ site.description }}</description>
 
- {% for post in site.categories.photos %}
+{% for post in site.categories.photos %}
 <item>
-<link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
+ <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
  <guid>{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
  <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-  <description><![CDATA[{{ post.content }}]]></description>
+ <description><![CDATA[{{ post.content }}]]></description>
  <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
 </item>
- {% endfor %}
- </channel>
- </rss>
+{% endfor %}
+
+</channel>
+</rss>
