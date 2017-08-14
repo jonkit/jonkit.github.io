@@ -36,8 +36,8 @@ gems:
 
 # Menu/Pages
 pages_list:       
-  Photos: '/photos'
   Briefly: '/briefly'
+  Photos: '/photos'
   Archive: '/archive'
   About: '/about'
   Feeds: '/feeds'
