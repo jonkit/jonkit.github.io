@@ -1,8 +1,9 @@
 ---
 layout: post  
-title: "Trudeau's 'phase out' oilsands comments spark outrage in Alberta"  
-permalink: trudeau-oilsands-comments-sparks-anger  
 categories: linked-list
+date: 2017-01-14 12:00:00 -0500
+permalink: trudeau-oilsands-comments-sparks-anger
+title: "Trudeau's 'phase out' oilsands comments spark outrage in Alberta"  
 external-url: http://www.cbc.ca/news/canada/edmonton/justin-trudeau-oilsands-phase-out-1.3934701
 ---
 
