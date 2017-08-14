@@ -31,7 +31,6 @@ layout: null
   <description><![CDATA[{{ post.content }}]]></description>
   <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
  </item>
-
 {% endif %}
 {% endunless %}
 {% endunless %}
