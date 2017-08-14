@@ -54,7 +54,7 @@ Use HTML codes for characters to show up in the RSS feed file (hex code elsewher
     + append -briefly, -ll, and -photo between DD- and -title-of-post.md for sorting purposes
 + layout: use `post` for all entries except Briefly and Photos, which uses `briefly` and `photos`  
 + categories: specify which category the post will be associated with
-+ date: in the format YYYY-MM-DD HH:MM:SS
++ date: in the format YYYY-MM-DD HH:MM:SS and needs to have -0500 added after SS (with a space between)
 + permalink: short-url-here is replaced with hyphenated text matching the post file name (without the date)
 + title: title the post (matches permalink... except for linked-list where it is the linked post's title)  
 + external-url: only used for linked-list posts and entire line should removed for other posts
@@ -65,7 +65,7 @@ Use HTML codes for characters to show up in the RSS feed file (hex code elsewher
 ---  
 layout: briefly
 category: briefly
-date: YYYY-MM-DD HH:MM:SS
+date: YYYY-MM-DD HH:MM:SS -0500
 permalink: name-of-md-file-without-date-or-extension
 ---
 
@@ -73,7 +73,7 @@ permalink: name-of-md-file-without-date-or-extension
 ---  
 layout: photos
 category: photos
-date: YYYY-MM-DD HH:MM:SS
+date: YYYY-MM-DD HH:MM:SS -0500
 permalink: name-of-md-file-without-date-or-extension
 title: "Title of Post (Matches File Name But with Title Case)"
 ---
@@ -82,7 +82,7 @@ title: "Title of Post (Matches File Name But with Title Case)"
 ---  
 layout: post  
 category: post  
-date: YYYY-MM-DD HH:MM:SS
+date: YYYY-MM-DD HH:MM:SS -0500
 permalink: name-of-md-file-without-date-or-extension
 title: "Title of Post (Matches File Name But with Title Case)"
 ---
@@ -91,9 +91,9 @@ title: "Title of Post (Matches File Name But with Title Case)"
 ---  
 layout: post
 category: linked-list
-date: YYYY-MM-DD HH:MM:SS
+date: YYYY-MM-DD HH:MM:SS -0500
 permalink: name-of-md-file-without-date-or-extension
-title: "Title of Post (Matches File Name But with Title Case)"
+title: "Title of Post (Matches the Linked Article Title)"
 external-url: urlbeinglinkedto
 ---
 
