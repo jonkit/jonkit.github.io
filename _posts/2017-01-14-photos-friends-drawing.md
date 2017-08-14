@@ -1,7 +1,7 @@
 ---  
 layout: photos
 category: photos
-date: 2017-01-14 12:30:00
+date: 2017-01-14 12:30:00 -0500
 permalink: friends-drawing
 title: "Friends Drawing"
 ---
