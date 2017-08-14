@@ -1,6 +1,7 @@
 ---  
 layout: photos
 category: photos
+hidden: true
 date: 2017-01-15 12:00:00 -0500
 permalink: ball-pit
 title: "Ball Pit"
