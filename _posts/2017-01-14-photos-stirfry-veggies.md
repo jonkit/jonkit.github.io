@@ -1,7 +1,7 @@
 ---
 layout: photos
 category: photos
-date: 2017-01-14 13:00:00
+date: 2017-01-14 13:00:00 -0500
 permalink: stirfry-veggies
 title: "Stirfry Veggies"
 ---
