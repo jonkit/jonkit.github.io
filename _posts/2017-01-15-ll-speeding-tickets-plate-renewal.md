@@ -1,8 +1,9 @@
 ---
 layout: post  
-title: "Ontario drivers with unpaid speeding tickets to be denied licence plates"  
-permalink: speeding-tickets-plate-renewal  
 categories: linked-list
+date: 2017-01-15 12:00:00 -0500
+permalink: speeding-tickets-plate-renewal  
+title: "Ontario drivers with unpaid speeding tickets to be denied licence plates"  
 external-url: http://www.cbc.ca/news/canada/toronto/speeding-scofflaws-1.3936724
 ---
 
