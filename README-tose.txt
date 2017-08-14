@@ -16,7 +16,7 @@ Both `post` and `linked-list` appear in the main feed whereas `photos` and `brie
 post - traditional blog posts, original content
 linked-list - Daring Fireball-esque snippets and brief comment(s) linking to other content 
 photos - my own private Instagram, hopefully providing me a reason to take and edit more photos
-briefly - my attempt at one-off quips and random thoughts 
+briefly - my attempt at one-off quips and random thoughts that are cross-posted to Micro.blog
 
 Any change to categories will impact the following files:  
 
@@ -25,15 +25,16 @@ Any change to categories will impact the following files:
 + photos.md 
 + briefly.md 
 + any file in the /post folder 
-+ atom.xml (all RSS feed files)
++ atom-FEEDNAME.xml (all RSS feed files)
 
 ## Structure
 
 ### TOC
 
 + main page is a blog-roll with just `post` and `linked-list` items
-+ `photo` and `briefly` items get their own blog-roll pages
++ `photos` and `briefly` items get their own blog-roll pages
 + archive page with a listing of all content as well as sections for each of the categories
++ feed page listing all of the different RSS feeds
 + about page with basic information about the site
 
 ### RSS Feeds
@@ -41,21 +42,62 @@ Any change to categories will impact the following files:
 + feed for just the main page (`post` and `linked-list`) where `linked-list` items point to the source
 + feed for just the main page (`post` and `linked-list`) where `linked-list` items point back this website
 + feed for just the photos  
++ feed for just the photos that strips the title so it can be posted to Micro.blog
 + feed for just the briefly snippets
 + feed for all content (`post`, `linked-list`, `photo`, and `briefly`) with all items pointing back to this website
 
-Use HTML codes for characters to show up in the RSS feed (hex code elsewhere)
+Use HTML codes for characters to show up in the RSS feed file (hex code elsewhere)
 
 ### Posts
 
 + file name to be YYYY-MM-DD-title-of-the-post.md 
     + append -briefly, -ll, and -photo between DD- and -title-of-post.md for sorting purposes
 + layout: use `post` for all entries except Briefly and Photos, which uses `briefly` and `photos`  
-+ title: title the document as it would appear in the permalink on the main page
-+ permalink: short-url-here is replaced with hyphenated text matching the post file name (without the date)
 + categories: specify which category the post will be associated with
++ date: in the format YYYY-MM-DD HH:MM:SS
++ permalink: short-url-here is replaced with hyphenated text matching the post file name (without the date)
++ title: title the document as it would appear in the permalink on the main page and matches the file name
 + external-url: only used for linked-list posts and entire line should removed for other posts
-+ YAML Front Matter placeholder in Octopage.app is as follows:
+
+### YAML Front Matter Templates
+
++ Briefly Post  
+---  
+layout: briefly
+category: briefly
+date: YYYY-MM-DD HH:MM:SS
+permalink: name-of-md-file-without-date-or-extension
+---
+
++ Photos Post  
+---  
+layout: photos
+category: photos
+date: YYYY-MM-DD HH:MM:SS
+permalink: name-of-md-file-without-date-or-extension
+title: "Title of Post (Matches File Name But with Title Case)"
+---
+
++ Standard Post
+---  
+layout: post  
+category: post  
+date: YYYY-MM-DD HH:MM:SS
+permalink: name-of-md-file-without-date-or-extension
+title: "Title of Post (Matches File Name But with Title Case)"
+---
+
++ Linked-list Post  
+---  
+layout: post
+category: linked-list
+date: YYYY-MM-DD HH:MM:SS
+permalink: name-of-md-file-without-date-or-extension
+title: "Title of Post (Matches File Name But with Title Case)"
+external-url: urlbeinglinkedto
+---
+
++ * NO LONGER USED * YAML Front Matter placeholder in Octopage.app is as follows:
 ---
 layout: post briefly photos  
 title: "Title"  
