@@ -1,8 +1,9 @@
----
-layout: photos  
-title: "Ball Pit"  
-permalink: ball-pit  
-categories: photos
+---  
+layout: photos
+category: photos
+date: 2017-01-15 12:00:00
+permalink: ball-pit
+title: "Ball Pit"
 ---
 
 ![Ball Pit](http://jonkit.ca/cdn/photos/2017-01-15-ball-pit.jpeg)
