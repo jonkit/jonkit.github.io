@@ -56,7 +56,7 @@ Use HTML codes for characters to show up in the RSS feed file (hex code elsewher
 + categories: specify which category the post will be associated with
 + date: in the format YYYY-MM-DD HH:MM:SS
 + permalink: short-url-here is replaced with hyphenated text matching the post file name (without the date)
-+ title: title the document as it would appear in the permalink on the main page and matches the file name
++ title: title the post (matches permalink... except for linked-list where it is the linked post's title)  
 + external-url: only used for linked-list posts and entire line should removed for other posts
 
 ### YAML Front Matter Templates
