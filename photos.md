@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Photos
 ---
 
 {% for post in site.categories.photos %}
