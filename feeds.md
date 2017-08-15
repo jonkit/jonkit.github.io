@@ -17,7 +17,7 @@ This feed will only contain photos. [Subscribe](/rss-photos.xml)
 
 ### Subscribe to the microblog feed
 
-This feed will only contain my brief snippets on the Briefly page. [Subscribe](/rss-briefly.xml)
+This feed will only contain posts from the Briefly page. [Subscribe](/rss-briefly.xml)
 
 
 ### Subscribe to everything
