@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-This is my page. I use it to share miscellaneous media that I enjoy and/or consider noteworthy. It has been set-up to be as hands-off and low-maintenance as possible. If you wish to [contact me](mailto:msg@theonlysiteever.com), please feel free.  
+This is my website. I use it to share miscellaneous media that I enjoy and/or consider noteworthy. Occasionally I may write things. It has been set-up to be as hands-off and low-maintenance as possible. Sorry if you expected fancy. If you wish to [contact me](mailto:msg@theonlysiteever.com), please feel free.  
 
 Relevant technical and logistical information that one might find interesting:  
 
@@ -13,7 +13,7 @@ Relevant technical and logistical information that one might find interesting:
 + Content is written and posted exclusively from [iOS](http://www.apple.com/ca/ios/) with my [iPhone](http://www.apple.com/ca/iphone/) and [iPad Pro](http://www.apple.com/ca/ipad/) using [Drafts](http://agiletortoise.com/drafts/) and [Editorial](http://omz-software.com/editorial/).  
 + Photos are taken with those two devices and occasionally my camera, an [Olympus OMD-E10](https://www.dpreview.com/reviews/olympus-om-d-e-m10). Edits are made using [VSCO](https://vsco.co/store/app).
 
-There are many sites that I draw on for inspiration, in terms of content, style, and general approach to blogging. Here are a couple that I have most noticeably *borrowed* from, check them out:  
+There are many sites that I draw on for inspiration in terms of content, style, and general approach to blogging. Here are a couple that I have most noticeably *borrowed* from, check them out:  
 
 + [Daring Fireball](http://daringfireball.net)
 + [Brooks Review](http://brooksreview.net)  
