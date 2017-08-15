@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Briefly
 ---
 
 {% for post in site.categories.briefly %}
