@@ -2,7 +2,7 @@
 layout: briefly
 category: briefly
 hidden: true
-date: 2017-08-14 10:50:12 -0500
+date: 2017-08-14 10:50:12 -0400
 permalink: getting-started-on-micro-dot-blog
 ---
 
