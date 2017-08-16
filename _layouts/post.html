@@ -5,9 +5,9 @@ layout: default
 <article class="post">
   <h3 class="post-title">{{ page.title }}</h3>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+  {{ content }}
   {% if page.external-url %}
   <a href="{{ page.external-url }}">Link to the article &#8594;</a>
   {% else %}
   {% endif %}
-  {{ content }}
 </article>
