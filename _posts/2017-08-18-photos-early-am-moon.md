@@ -8,5 +8,5 @@ title: "Early AM Moon"
 ---
 
 ![Moon](http://jonkit.ca/cdn/photos/2017-08-18-early-morning-moon.jpeg)
-<time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+{{ post.date | date_to_string }}
 Early AM moon
