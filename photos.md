@@ -16,6 +16,6 @@ layout: page
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
    
-  </article>
+  </article> 
 
 {% endfor %}
