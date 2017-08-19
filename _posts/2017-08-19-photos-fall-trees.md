@@ -9,6 +9,6 @@ title: "Fall Trees"
 
 ![Trees](http://jonkit.ca/cdn/photos/2017-08-19-fall-trees.jpeg)
 
-{{ post.date }}
+<p class="test">AUG 19</p>
 
 Trees from last fall. Mostly posting this as a formatting test. 
