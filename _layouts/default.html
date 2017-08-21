@@ -12,6 +12,11 @@
       <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
       <small>{{ site.tagline }}</small>
     </h3>
+    <hr>
+    {% for page in site.pages_list %}
+      <small><a href="{{ page[1]  }}">{{ page[0] }}</a>&nbsp;&nbsp;</small>
+    {% endfor %}
+    <br />
   </header>
   
   <main>
@@ -20,10 +25,6 @@
 
   <footer class="footer">
     <hr>
-    {% for page in site.pages_list %}
-      <small><a href="{{ page[1]  }}">{{ page[0] }}</a>&nbsp;&nbsp;</small>
-    {% endfor %}
-    <br />
     <small>
       &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
     </small>
