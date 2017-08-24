@@ -2,7 +2,7 @@
 layout: page
 ---
 <p align="center">
-  <a href="http://theonlysiteever.com/microblog/">What is this?</a>
+  <a href="http://theonlysiteever.com/microblog/">what is this?</a>
   <br />
   &#x25c7;
 </p>
