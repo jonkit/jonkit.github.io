@@ -12,4 +12,4 @@ I backed a project by [Manton Reece](http://manton.org) called [Micro
 
 Unbeknownst to me, there is a whole movement focusing on owning your content that is referred to as the [IndieWeb](https://indieweb.org/). It preaches owning your content, having control over the content, and being able to share it freely and Micro.blog seems to have very close ties with this ethos.  
 
-The [Briefly](http://theonlysiteever.com/briefly/) page was created so that I would have a place to post short snippets of text that could then be cross-posted onto the Micro.blog website. Once I work out all of the kinks, I would expect every post on this website will also be cross-posted on Micro.blog, but the Briefly posts seemed like a good starting place.
+The [Briefly](http://theonlysiteever.com/briefly/) page was created so that I would have a place to easily post short snippets of text that could then be cross-posted onto the Micro.blog website.  
