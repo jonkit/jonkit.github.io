@@ -2,6 +2,10 @@
 layout: page
 ---
 
+<p align="center">
+  <a href="http://theonlysiteever.com/microblog/">What is this?</a>
+</p>
+
 {% for post in site.categories.briefly %}
 
 <article class="post">
