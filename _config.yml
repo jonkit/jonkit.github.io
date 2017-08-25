@@ -10,6 +10,7 @@ baseurl:             ""
 description:         An unnecssary addition to the blogosphere
 name:                the only site ever
 timezone:            Canada/Eastern
+markdown:            kramdown
 
 # Assets
 #
