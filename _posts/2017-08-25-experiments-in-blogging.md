@@ -6,7 +6,7 @@ permalink: experiments-in-blogging
 title: "Experiments In Blogging"
 ---
 
-Stop me if you have heard this one before, but for the last ten years I have wanted to create a blog like [John Gruber’s](https://twitter.com/grubbed) [Daring Fireball](http://daringfireball.net).  
+Stop me if you have heard this one before, but for the last ten years I have wanted to create a blog like [John Gruber’s](https://twitter.com/gruber) [Daring Fireball](http://daringfireball.net).  
 
 I am not a writer. I am not famous (internet or otherwise). I do not have unique or insightful opinions about things. Yet still I continue to want to have my own website that people willingly visit on a regular basis[^1-expe].  
 
