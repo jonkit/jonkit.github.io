@@ -35,8 +35,11 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   
-kramdown:            footnote_backlink: "&#8617;&#xfe0e;"
 
+
+kramdown:
+  	  footnote_backlink: "&#8617;&#xfe0e;"
+      
 # Menu/Pages
 pages_list:       
   Briefly: '/briefly'
