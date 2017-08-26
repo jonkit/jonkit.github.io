@@ -38,7 +38,7 @@ gems:
 
 
 kramdown:
-  	  footnote_backlink: "&#8617;&#xfe0e;"
+  - footnote_backlink: "&#8617;&#xfe0e;"
       
 # Menu/Pages
 pages_list:       
