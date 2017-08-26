@@ -34,11 +34,9 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
-  
-
 
 kramdown:
-  - footnote_backlink: "&#8617;&#xfe0e;"
+  footnote_backlink: '&#8617;&#65038;'
       
 # Menu/Pages
 pages_list:       
