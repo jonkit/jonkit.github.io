@@ -24,12 +24,13 @@ title: Archive
 ## Just Links
 
 {% for post in site.categories.linked-list %}
+<ul>
 {% if post.external-url %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} &#x2192;]({{ post.url }})
+<li>{{ post.date | date_to_string }} &raquo; <a href="{{ post.url }}">{{ post.title }} &#x2192;</a></li>
 {% else %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+<li>{{ post.date | date_to_string }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endif %}
-
+</ul>
 {% endfor %}
 
 ## Just Photos
