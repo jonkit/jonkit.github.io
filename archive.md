@@ -16,7 +16,7 @@ title: Archive
 {% for post in site.categories.linked-list %}
 <ul>
 {% if post.external-url %}
- <li>{{ post.date | date_to_string }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+ <li>{{ post.date | date_to_string }} &raquo; <a href="{{ post.url }}">{{ post.title }} &#x2192;</a></li>
 {% else %}
  <li>{{ post.date | date_to_string }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endif %}
