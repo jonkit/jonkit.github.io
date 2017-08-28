@@ -23,5 +23,5 @@ layout: page
 <p align="center">
    &#x25c7;
    <br />
-   This page only shows the 10 most recent photos. A full listing is on the [Archive](http://theonlysiteever.com/archive/) page.
+   This page only shows the 10 most recent photos. A full listing is on the <a href="http://theonlysiteever.com/archive/">Archive</a> page.
 </p>
