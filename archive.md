@@ -16,7 +16,7 @@ title: Archive
 {% for post in site.categories.linked-list %}
 <ul>
 {% if post.external-url %}
- <li>{{ post.date | date: "%m/%d/%y" }} &raquo; <a href="{{ post.url }}">{{ post.title | truncate: 30 }} &#x2192;</a></li>
+ <li>{{ post.date | date: "%m/%d/%y" }} &raquo; <a href="{{ post.url }}">{{ post.title | truncate: 28 }} &#x2192;</a></li>
 {% else %}
  <li>{{ post.date | date: "%m/%d/%y" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endif %}
