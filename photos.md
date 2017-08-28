@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% for post in site.categories.photos ofset: 0 limit: 5 %}
+{% for post in site.categories.photos ofset: 0 limit: 10 %}
 
   <article class="post">
     <!--<h4 class="post-title" align="center">
@@ -19,3 +19,5 @@ layout: page
   </article> 
 
 {% endfor %}
+
+This page only shows the 10 most recent photos. For a full listing, visit the [Archive](http://theonlysiteever.com/archive/) page.  
