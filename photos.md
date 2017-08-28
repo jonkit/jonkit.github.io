@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% for post in site.categories.photos %}
+{% for post in site.categories.photos ofset: 0 limit: 5 %}
 
   <article class="post">
     <!--<h4 class="post-title" align="center">
