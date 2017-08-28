@@ -20,4 +20,8 @@ layout: page
 
 {% endfor %}
 
-This page only shows the 10 most recent photos. For a full listing, visit the [Archive](http://theonlysiteever.com/archive/) page.  
+<p align="center">
+   &#x25c7;
+   <br />
+   This page only shows the 10 most recent photos. A full listing is on the [Archive](http://theonlysiteever.com/archive/) page.
+</p>
