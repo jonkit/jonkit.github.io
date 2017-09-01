@@ -7,7 +7,7 @@ layout: page
   &#x25c7;
 </p>
 
-{% for post in site.categories.briefly offset: 0 limit: 10 %}
+{% for post in site.categories.briefly offset: 0 limit: 20 %}
 
 <article class="post">
 
@@ -25,5 +25,5 @@ layout: page
 <p align="center">
    &#x25c7;
    <br />
-   This page only shows the 10 most recent posts. A full listing is on the <a href="http://theonlysiteever.com/archive/">Archive</a> page.
+   This page only shows the 20 most recent posts. The previous posts are lost to the sands of time... not really, but they are not available here.
 </p>
