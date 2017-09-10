@@ -3,7 +3,7 @@ layout: post
 category: linked-list
 date: 2017-09-09 23:12:58 -0400
 permalink: with-the-iphone-7-apple-changed-the-camera-industry-forever
-title: "With The Iphone 7, Apple Changed The Camera Industry Forever"
+title: "With The iPhone 7, Apple Changed The Camera Industry Forever"
 external-url: http://www.newyorker.com/business/currency/with-the-iphone-7-apple-changed-the-camera-industry-forever
 ---
 
