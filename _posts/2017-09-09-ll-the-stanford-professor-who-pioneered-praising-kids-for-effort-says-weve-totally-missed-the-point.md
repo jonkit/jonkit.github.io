@@ -15,5 +15,5 @@ It would be easier as a parent to soften the blow for a child who did not 'win' 
 
 > The key to instilling a growth mindset is teaching kids that their brains are like muscles that can be strengthened through hard work and persistence.
 
-I see some irony in this failure. The parents described as only focusing on the effort and not on the hard work and persistence needed for improvement are themselves not putting in the hard work needed to relay that message properly.
+I see some irony in this failure. The parents described as only focusing on the effort and not on the hard work and persistence needed for improvement are themselves not putting in the hard work needed to relay that message properly. 
 
