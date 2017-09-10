@@ -2,7 +2,7 @@
 layout: post
 category: linked-list
 date: 2017-09-09 23:05:44 -0400
-permalink: the-stanford-professor-who-pioneered-praising-kids-for-effort-says-we’ve-totally-missed-the-point
+permalink: the-stanford-professor-who-pioneered-praising-kids-for-effort-says-weve-totally-missed-the-point
 title: "The Stanford Professor Who Pioneered Praising Kids For Effort Says We’ve Totally Missed The Point"
 external-url: http://qz.com/587811/stanford-professor-who-pioneered-praising-effort-sees-false-praise-everywhere/
 ---
