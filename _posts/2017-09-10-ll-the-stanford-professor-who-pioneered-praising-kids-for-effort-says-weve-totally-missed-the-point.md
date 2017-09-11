@@ -7,11 +7,6 @@ title: "The Stanford Professor Who Pioneered Praising Kids For Effort Says We’
 external-url: http://qz.com/587811/stanford-professor-who-pioneered-praising-effort-sees-false-praise-everywhere/
 ---
 
-The Stanford professor who pioneered praising kids for effort says we’ve totally missed the point
-
-
-http://qz.com/587811/stanford-professor-who-pioneered-praising-effort-sees-false-praise-everywhere/
-
 > It seems the growth mindset has run amok. Kids are being offered empty praise for just trying. Effort itself has become praise-worthy without the goal it was meant to unleash: learning.
 
 Would this be a case of broken telephone (optimist) or taking the easy way out (pessimist)?  
