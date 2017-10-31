@@ -7,7 +7,8 @@ layout: page
   &#x25c7;
 </p>
 
-{% if post.tags contains 'drafted' %}
+{% for post in site.categories.drafted offset: 0 limit: 10 %}
+
 <article class="post">
 
 {{ post.content }}
@@ -21,4 +22,4 @@ layout: page
 
 {% else %} 
   <!-- This is not a draft. Allow post to be displayed in blog lists and RSS feed --> 
-{% endif %}
+{% endfor %}
