@@ -9,7 +9,8 @@ title: Home
 
 {% unless post.categories contains 'briefly' %}
 {% unless post.categories contains 'photos' %}
-
+{% unless post.categories contains 'drafted' %}
+  
   <article class="post">
     <h3 class="post-title">
       {% if post.external-url %}
@@ -30,7 +31,8 @@ title: Home
     {{ post.content }}
     
   </article> 
-
+  
+{% endunless %}
 {% endunless %}
 {% endunless %}
 
