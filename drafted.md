@@ -7,7 +7,7 @@ layout: page
   &#x25c7;
 </p>
 
-{% if post.tags contains 'draft' %}
+{% if post.tags contains 'drafted' %}
 <article class="post">
 
 {{ post.content }}
