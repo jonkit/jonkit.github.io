@@ -7,7 +7,7 @@ permalink: kronenbourg-1664
 title: "Kronenbourg 1664"
 ---
 
-![Kronenbourg 1664](http://jonkit.ca/cdn/photos/2017-11-12-kronenbourg-1664.jpeg)
+![Kronenbourg 1664](http://jonkit.ca/cdn/photos/2017-11-12-microblog-photo-challenge-01-day-two-tasty.jpeg)
 
 Photo for day two of the Micro.blog Photo Challenge. Day Two - Tasty. @douglane
 
