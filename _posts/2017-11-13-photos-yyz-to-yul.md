@@ -7,6 +7,6 @@ permalink: yyz-to-yul
 title: "YYZ To YUL"
 ---
 
-![YYZ To YUL](http://jonkit.ca/cdn/photos/2017-11-13-yyz-to-yul.GIF)
+![YYZ To YUL](http://jonkit.ca/cdn/photos/2017-11-13-microblog-photo-challenge-01-day-three-on-the-move.GIF)
 
 Photo for day three of the Micro.blog Photo Challenge. Day Three - On The Move. @douglane
