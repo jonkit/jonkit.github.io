@@ -9,4 +9,4 @@ external-url: https://medium.com/time-dorks/why-i-ignore-the-daily-news-and-read
 
 > Truly important breaking news always finds me. For everything else, there’s The Economist.
 
-I subscribed to The Economist at some point last year and have done a decent job reading it on a regular basis. I didn’t always read every week but I think the approach outlined in this article would help me do a better job. 
+I subscribed to The Economist at some point last year and have done a decent job reading it on a regular basis. I don’t always read every week but I think the approach outlined in this article would help me do a better job. 
