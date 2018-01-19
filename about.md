@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="http://jonkit.ca/img/profile.png" alt="Me. That's me"></img><br />
+<img src="http://jonkit.ca/img/profile.png" alt="Me. That's me"><br />
 This is my website. I use it to share miscellaneous media that I enjoy and/or consider noteworthy. Occasionally I may write things. It has been set-up to be as hands-off and low-maintenance as possible. Sorry if you expected fancy. If you wish to [contact me](mailto:msg@theonlysiteever.com), please feel free.  
 
 Relevant technical and logistical information that one might find interesting:  
