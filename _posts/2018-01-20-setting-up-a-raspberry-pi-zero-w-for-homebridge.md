@@ -12,9 +12,15 @@ Have you ever seen that [xkcd comic](https://xkcd.com/927/) where someone propos
 
 I used to use PiBaker but have since found an app called [Etcher](https://etcher.io) that does a fantastic job of copying the desired OS to an SD card.  
 
-I am using Raspbian Stretch and as a result I need to enable SSH on the device. To do so, re-mount the SD card and place a blank file named `ssh` in the `boot` volume. I do that via macOS terminal and the command`touch /Volumes/boot/ssh` (where `/Volumes/boot/` is the path to the SD card).
+I am using Raspbian Stretch and as a result I need to enable SSH on the device. To do so, re-mount the SD card and place a blank file named `ssh` in the `boot` volume. I do that via macOS terminal and the command: 
 
-I am also using a Raspberry Pi Zero W for this setup so I need to add the wifi credentials so that it will connect to my network when I first boot it up[^2-home]. With the SD card mounted, I had to add a file named `wpa_supplicant.conf` into the `boot` volume with my wifi credentials. I do that via macOS terminal and the command `nano /Volumes/boot/wpa_supplicant.conf`  
+`touch /Volumes/boot/ssh` 
+
+(where `/Volumes/boot/` is the path to the SD card).
+
+I am also using a Raspberry Pi Zero W for this setup so I need to add the wifi credentials so that it will connect to my network when I first boot it up[^2-home]. With the SD card mounted, I had to add a file named `wpa_supplicant.conf` into the `boot` volume with my wifi credentials. I do that via macOS terminal and the command: 
+
+`nano /Volumes/boot/wpa_supplicant.conf`  
 
 I came across several variations of what to put in the file but here is a plain text file of what I have in my file. You will need to replace the network name and network password as well as the country code (using the ISO/IEC alpha2 country code).  
 
@@ -45,21 +51,37 @@ A version of node is required to make this all work. I have found success using 
 
 You can confirm you have installed this version of node with the command `node -v`
 
-Now install git with the command `sudo apt-get install git`
+Now install git with the command: 
 
-Finally, install several other required dependencies with the command `sudo apt-get install libavahi-compat-libdnssd-dev`
+`sudo apt-get install git`
 
-To install homebridge, run `sudo npm install -g --unsafe-perm homebridge`
+Finally, install several other required dependencies with the command: 
 
-This is where I would install all of the plugins you know you want. I was only doing this to add support the Harmony Hub, so I installed that plugin with `sudo npm install -g homebridge-harmonyhub`
+`sudo apt-get install libavahi-compat-libdnssd-dev`
 
-You can confirm that homebridge has been installed by trying to run it with the command, `homebridge`
+To install homebridge, run: 
+
+`sudo npm install -g --unsafe-perm homebridge`
+
+This is where I would install all of the plugins you know you want. I was only doing this to add support the Harmony Hub, so I installed that plugin with: 
+
+`sudo npm install -g homebridge-harmonyhub`
+
+You can confirm that homebridge has been installed by trying to run it with the command: 
+
+`homebridge`
 
 You may see several warnings but ultimately it should launch and give you a HomeKit code to use to add homebridge to the Home.app.
 
 Now we need to setup the config.json file. If homebridge is still running, use `control+c` to quit it. 
 
-Change into the homebridge directory with `cd .homebridge` and create the config.json file with `sudo nano config.json`
+Change into the homebridge directory with: 
+
+`cd .homebridge`
+
+and create the config.json file with: 
+
+`sudo nano config.json`
 
 You can copy the config.json file from the homebridge GitHub repo and edit it to add support for all of the plugins you installed (each plugin page should have specific instructions). Within the config.json file I usually alter the `username` value as well as the HomeKit `pin` value. I’m not sure if this matters but I assume there is at least some risk using all of the defaults.  
 
@@ -67,13 +89,18 @@ Exit the file using `control+x`, selecting `Y` to confirm you want to save it, a
 
 Lastly, to make homebridge run as a service there are a few different options. In theory (again), you should be able to use the instructions in the homebridge GitHub but I have not had much success doing so. 
 
-Recently I have used `pm2` as a way to run homebridge as a service. To do so, install pm2 with `sudo npm install -g pm2`
+Recently I have used `pm2` as a way to run homebridge as a service. To do so, install pm2 with: 
 
-You can confirm that pm2 was installed by typing `pm2 startup` to see it run.  
+`sudo npm install -g pm2`
+
+You can confirm that pm2 was installed by typing: 
+
+`pm2 startup`
 
 Add homebridge to pm2 startup with the following two commands:
 
 `pm2 start homebridge` 
+
 `pm2 save`
 
 Initialize pm2 and systemd with the following command:  
