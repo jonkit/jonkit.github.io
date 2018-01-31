@@ -1,6 +1,6 @@
 ---
 layout: post
-category: linked-list
+category: post
 date: 2018-01-20 07:53:35 -0500
 permalink: profile-pictures-through-the-years
 title: "Profile Pictures Through The Years"
