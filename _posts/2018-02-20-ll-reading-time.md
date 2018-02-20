@@ -13,4 +13,4 @@ I actually read this in the newspaper (that’s a whole other topic) and wanted 
 
 I’ve never been a great reader. I struggled with high school-assigned books because I preferred to read non-fiction but even now - non-fiction still my preference - I find it hard to carve out time to read books. I have a stack of them sitting on my night table[^1-read] but whenever I look at them all I can think of is how long it’s going to take to finish them and opt to do something that’s fleeting instead. Or just go to sleep. 
 
-[^1-read]: 
+[^1-read]: Omar El Akkad’s American War, Matt Taibbi’s Insane Clown President, Hobbes’ Leviathan, and Becoming Steve Jobs by Brent Schlender and Rick Tetzeli
