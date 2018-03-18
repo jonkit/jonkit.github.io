@@ -30,6 +30,8 @@ Enter [Micro.blog](http://micro.blog) - a microblogging/IndieWeb/feed compiler s
 
 I am hoping that by having the ability to create these small pieces of content it may create a habit that will lead to creating longer pieces of content. My expectations, however, are that I will predominantly post photos and rarely write full-length blog posts. Brief text posts and linked-list posts will be somewhere in the middle. We will see how it goes... 
 
+<p class="separator">&#10048; &#10048; &#10048;</p>
+
 [^1-expe]: I say that mostly sarcastically. I know it is the wrong way to approach it. I really like the idea of writing things (I say idea because I have never really given it an honest effort) and I know I should just focus on doing this just because I want to write
 
 [^2-expe]: It should be obvious by that terrible explanation that I don’t have a solid understanding of what Micro.blog is
