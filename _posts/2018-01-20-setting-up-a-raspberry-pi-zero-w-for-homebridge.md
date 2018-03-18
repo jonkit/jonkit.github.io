@@ -8,7 +8,7 @@ title: "Setting Up A Raspberry Pi Zero W For Homebridge"
 
 Have you ever seen that [xkcd comic](https://xkcd.com/927/) where someone proposes a solution to having too many competing standards by creating a standard that consolidates them all? Except the end result is that they just add one more standard to the mix? Well this is that, but for guides on setting up homebridge on a Raspberry Pi. I have probably used a dozen or so different guides and resources to try and develop a repeatable setup process and finally compiled all of the steps myself. I cannot guarantee this will work for you and I’m not competent enough to really provide any troubleshooting support... but for my setup[^1-home], the following steps worked.
 
-## Flash SD Card
+### Flash SD Card
 
 I used to use PiBaker but have since found an app called [Etcher](https://etcher.io) that does a fantastic job of copying the desired OS to an SD card.  
 
@@ -32,7 +32,7 @@ SSH into the Pi using the IP address and the username/password combo of `pi` and
 
 On first boot you should change the default password. To do that, type `passwd`, then enter the current password and the new password (twice) following along with the prompts. 
 
-## Setting up homebridge
+### Setting up homebridge
 
 In theory, you should be able to do this using all of the information from the [homebridge github](https://github.com/nfarina/homebridge) page but I have never had luck getting it to work. Here are the steps that I have followed.
 
