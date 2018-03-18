@@ -33,6 +33,8 @@ Finally we arrive at the change I made yesterday. I needed to update my profile 
 
 ![2018 Profile](http://jonkit.ca/cdn/photos/2018-01-20-profile_06.png)
 
+<p class="separator">&#10048; &#10048; &#10048;</p>
+
 [^1-prof]: Please note the Che Guevara poster, my spacer earnings, the weed cartoon poster, and the mural of miscellaneous rock music stars. Just out of frame are the beer can Christmas lights.
 
 [^2-prof]: During this period I also changed my account name to Lloyd Braun... which led to an unintentional update on my wife’s profile page saying she was married to Lloyd Braun. Perfect.
