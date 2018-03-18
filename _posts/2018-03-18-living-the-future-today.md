@@ -24,7 +24,7 @@ The release of the Apple Watch with LTE re-ignited that excitement and because o
 
 So here’s what I am going to do: I am going to make an effort to minimize the role my iPhone plays in my day-to-day life. I’ve thought about this for a while so I already know what some of the difficulties will be. The two things that I will be thinking about constantly while I do this will be: a) Can I be contacted/contact people? and b) Is there anything I’d do on my phone that I couldn’t do without it? With the follow-up question to that being: Does it matter?  
 
-## How It’s Going To Go
+### How It’s Going To Go
 
 From what I can tell, whether I have my iPhone, my iPad, or my Apple Watch with me, there isn’t a situation where I wouldn’t be able to be reached by the most common methods. With all devices I can send and receive all text messages (SMS and iMessages). Same for emails. I can make and receive phone calls[^3-carryless]. I don’t have WhatsApp or Facebook Messenger or anything else like that to worry about whether or not it would work.  
 
@@ -34,7 +34,7 @@ When I have my iPad with me, there is nothing that I can do on my phone that I c
 
 Not being able to take photos is the biggest hurdle and I can’t think of an alternative that doesn’t introduce a different - and worse - set of problems. When I’m at home I can grab my camera but when I’m out with just my Apple Watch I will have no ability to take a photo. When my iPad is nearby I *could* use that to take a photo but I will not be carrying my iPad around with me so I do not think it will often be a solution. This is where I think this whole experiment will fall apart. I like taking photos. Landscape photos, candid moments, photos of things I need to remember - lots of things. I have two kids under five and they are forever doing something cute. Even after I got the LTE Apple Watch and wanted to go out without my iPhone, I would catch myself thinking of scenarios where I might want to take a picture of something and would end up taking the phone with me.
 
-## What Do I Want To Get Out Of This?
+### What Do I Want To Get Out Of This?
 
 Ultimately I am not sure what I want to get out of this. I know there’s a lot of talk about *what comes after the phone?* and I don’t think it’s unreasonable to think that some kind of wearable device could play a major role[^6-carryless] so it’s kind of neat to see how it would work in practice.
 
