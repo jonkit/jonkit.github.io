@@ -109,6 +109,8 @@ Initialize pm2 and systemd with the following command:
 
 At this point, homebridge should be running and should start on each boot. You can now add homebridge to the Home.app... hopefully.
 
+<p class="separator">&#10048; &#10048; &#10048;</p>
+
 [^1-home]: Raspberry Pi Zero W using Raspbian Stretch Lite (2017-11-29). Other (probably not relevant details): a Kingston 64GB class 10 microSD card, eero wireless network, powered by a USB wall plug.
 
 [^2-home]: There are definitely other ways to do this but this seemed to be the easiest for me.
