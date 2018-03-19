@@ -26,6 +26,8 @@ I came across several variations of what to put in the file but here is a plain 
 
 [My wpa_supplicant.conf file](http://jonkit.ca/cdn/files/wpa_supplicant.conf.txt)... just copy/paste the text into the file you create.
 
+*Edit 2018-03-19 - If you change Wi-Fi networks (or passwords), you can remove the SD card from the Pi Zero, mount it on a computer, and use the steps above to create a new wpa_supplicant file with your new network information. Copy that new file into the mounted `boot` drive and then put the SD card back in the Pi Zero and boot it up. It should connect to your new network*
+
 You should be set to plug in the Raspberry Pi and access it via SSH now. You will need to know the IP address of the Pi in order to access it. I was able to find this in the eero app as it lists all of the devices on my network. There are other ways to find the IP address of the devices on the network but I won’t be of much help with that. 
 
 SSH into the Pi using the IP address and the username/password combo of `pi` and `raspberry`.
