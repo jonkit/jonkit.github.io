@@ -46,10 +46,14 @@ Run the update and upgrade commands to get everything up-to-date:
 
 A version of node is required to make this all work. I have found success using v4.3.2 on my Raspberry Pi Zero W. Download that version directly from nodejs.org, unarchive the file, and then copy the files to your `/usr/local` directory with the following four commands:  
 
-`wget https://nodejs.org/dist/v4.3.2/node-v4.3.2-linux-armv6l.tar.gz`
-`tar -xvf node-v4.3.2-linux-armv6l.tar.gz`
+`wget https://nodejs.org/dist/v4.3.2/node-v4.3.2-linux-armv6l.tar.gz` 
+
+`tar -xvf node-v4.3.2-linux-armv6l.tar.gz` 
+
 `cd node-v4.3.2-linux-armv6l`
+
 `sudo cp -R * /usr/local`
+
 
 You can confirm you have installed this version of node with the command `node -v`
 
