@@ -28,6 +28,7 @@ The lack of CarPlay will be something I would really miss for the driving commut
 + There was also a moment that I wanted to send a friend a picture from my camera roll but I could not do that from my Apple Watch (I did this with my iPad back at my desk);
 + When I got on the train to go home, my Apple Watch battery was at 10% - this is the only time I’ve ever worried about the battery on the Series 3 Apple Watch. Because I had my iPad, this wasn’t a big concern but I may have to re-think portable batteries and having an Apple Watch charger handy;
 + I got home, put my Apple Watch on the charger and realized I left my iPhone in the car;
-+ I ended up using my phone a couple times in the evening out of convenience (my iPad was still in my work bag)
++ I ended up using my phone a couple times in the evening out of convenience (my iPad was still in my work bag)  
+
 
 Day one was definitely a success. I’m looking forward to seeing how often I notice some of the same shortcomings.
