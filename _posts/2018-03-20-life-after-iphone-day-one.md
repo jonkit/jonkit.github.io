@@ -10,7 +10,7 @@ I have essentially four types of days - a work day with a one-hour (each way) dr
 
 The lack of CarPlay will be something I would really miss for the driving commute and on days that I’m working from home or not working at all, my phone already plays a very limited role in my day so I doubt I will get much insight from either of those days. As a result, the work day with the train commute is likely going to be the most interesting/least frustrating day to try going iPhone-free. 
 
-Things That Happened
+### Things That Happened
 
 + I cheated almost immediately - part of the one-hour commute involves a 15-minute drive to the train station (followed by a 45-minute train ride). I took my phone with me and plugged it into the car so I could have CarPlay. When I arrived at the station, I left my phone in the car;  
 + Within five minutes of leaving my phone behind I was already checking my pockets thinking I had lost it;  
