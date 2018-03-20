@@ -6,6 +6,8 @@ permalink: life-after-iphone-day-one
 title: "Life After iPhone Day One"
 ---
 
+As a fun experiment, I am going to try and pretend like my iPhone doesn’t exist… in its place a combination of my LTE Apple Watch and LTE iPad. [Here's my introduction post](http://theonlysiteever.com/living-the-future-today)
+
 I have essentially four types of days - a work day with a one-hour (each way) driving commute, a work day with a one-hour (each way) train commute, a work-from-home-day, and a non-working day with misc family activities/life chores. 
 
 The lack of CarPlay will be something I would really miss for the driving commute and on days that I’m working from home or not working at all, my phone already plays a very limited role in my day so I doubt I will get much insight from either of those days. As a result, the work day with the train commute is likely going to be the most interesting/least frustrating day to try going iPhone-free. 
