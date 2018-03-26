@@ -8,7 +8,7 @@ title: "Life After iPhone Day Two"
 
 This was a work day with a one-hour driving commute. After [Day One](http://theonlysiteever.com/life-after-iphone-day-one) I presumed the lack of CarPlay would be the biggest issue on day two because otherwise the time I spend in the office wouldn’t be much different than day one.
 
-## Things That Happened
+### Things That Happened
 
 + I cheated again. My phone was plugged into my car so I could have CarPlay on my commute but I left it in there during the day;
 + I was listening to a podcast in the car (via my iPhone and CarPlay) and when I got out to walk to work I realized that I couldn’t just resume it by using my AirPods and Siri to say, “Play” because I was using my iPhone in the car... I could have pulled out my iPad and connected to my AirPods but instead just used Siri to start playback of a music playlist from my Apple Watch;
