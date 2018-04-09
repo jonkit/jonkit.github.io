@@ -48,6 +48,8 @@ Another angle comes from something I heard in the quasi-documentary/quasi-interv
 + [Life After iPhone Day Two](http://theonlysiteever.com/life-after-iphone-day-two)
 + [Life After iPhone On The Weeknend](http://theonlysiteever.com/life-after-iphone-on-the-weekend)
 
+<br />
+
 <p class="separator">&#10048; &#10048; &#10048;</p>
 
 [^1-carryless]: The Timex Weekender and a couple of Daniel Wellington watches
