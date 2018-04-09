@@ -10,7 +10,7 @@ This is the third post[^1-daythree] in what I guess I can [now call a series](ht
 
 My weekends are largely spent playing with my kids and going to various locations with our family. Occasionally a dinner out. Maybe some errands or tasks around the house. The only reason I would really *need* my phone on the weekend is to take pictures. There are many times before this experiment where I’ve left the house with just my Apple Watch so I wasn’t expecting too many issues.
 
-## Things That Happened
+### Things That Happened
 
 + As much as I try, if my iPhone is nearby I will grab it out of habit to respond to a message, read some news, or kill an idle moment... I would have to move my iPhone to somewhere inconvenient to get over this;
 + I recently changed the mesh network in our house and the new hardware’s app is iPhone-only. I have been regularly monitoring which devices are connected to which Wi-Fi repeater and have just been using my iPhone for this. I do not anticipate checking this regularly after the first couple of days;
