@@ -30,5 +30,9 @@ The lack of CarPlay will be something I would really miss for the driving commut
 + I got home, put my Apple Watch on the charger and realized I left my iPhone in the car;
 + I ended up using my phone a couple times in the evening out of convenience (my iPad was still in my work bag)  
 
+<br />
 
 Day one was definitely a success. I’m looking forward to seeing how often I notice some of the same shortcomings.
+
+<p class="separator">&#10048; &#10048; &#10048;</p>
+
