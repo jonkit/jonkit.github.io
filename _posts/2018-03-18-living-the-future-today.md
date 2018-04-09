@@ -42,11 +42,11 @@ I am fixated on minimize how many *things* I have. Not in a minimalist way but j
 
 Another angle comes from something I heard in the quasi-documentary/quasi-interview movie [It Might Get Loud](http://www.imdb.com/title/tt1229360/) where Jack White makes a point about how placing artificial restrictions on yourself can lead to more creativity because you can’t rely on your habits and things you are comfortable with. I’m not looking to get some kind of creativity boost from this but I suspect that by breaking such a consistent and prevalent habit (i.e. having my iPhone with me constantly) that I may have some interesting thoughts and perspectives on some of my current habits. 
 
-Here are the posts thta followed:  
+### Here Are The Posts That Followed
 
-+ Life After iPhone Day One](http://theonlysiteever.com/life-after-iphone-day-one)
++ [Life After iPhone Day One](http://theonlysiteever.com/life-after-iphone-day-one)
 + [Life After iPhone Day Two](http://theonlysiteever.com/life-after-iphone-day-two)
-+ Life After iPhone On The Weeknend](http://theonlysiteever.com/life-after-iphone-on-the-weekend)
++ [Life After iPhone On The Weeknend](http://theonlysiteever.com/life-after-iphone-on-the-weekend)
 
 <p class="separator">&#10048; &#10048; &#10048;</p>
 
