@@ -17,6 +17,7 @@ My weekends are largely spent playing with my kids and going to various location
 + I was trying to plan a visit with a friend for the upcoming week and was exchanging a few lengthy messages with him throughout the day. I ended up grabbing my phone to type out messages to him - I could have used my iPad for this but the phone was nearby;
 + We went to the zoo and there was no way I wasn’t going to take photos. I could have taken my camera with me but it is much larger, much more inconvenient, and not *so* much better at taking pictures that it I feel it is necessary. I brought the phone with me and used the phone for CarPlay on our drive and for taking photos but otherwise it stayed in my pocket;
   
+    
   
 I suspected photography would be the most noteworthy shortcoming of this experiment and that has been the case in several situations - whether it was actually bringing my iPhone explicitly to take photos or being without it when I wanted to take a photo of something. The performance on the last few iPhone has been so good that the only real reason I have been upgrading has been for the camera. I have an Olympus micro four-thirds camera that does take very nice photos but for the most part, the iPhone X photos are fantastic. I still do use my camera but well over 75% of all of my photos over the last two or three years have been taken with my iPhone.  
 
