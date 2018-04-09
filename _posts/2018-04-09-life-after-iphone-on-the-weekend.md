@@ -21,4 +21,4 @@ I suspected photography would be the most noteworthy shortcoming of this experim
 
 I am going to go keep going with this for the next week or and see what else comes up before I try to really conclude on anything. Going Apple Watch-only at this point doesn’t seem possible. Aside from the fact that you need the iPhone to setup the Apple Watch, a secondary device seems like a requirement but that really shouldn’t be a surprise. If anything is surprising so far, it’s that I’m confident I could make the LTE Apple Watch + LTE iPad setup work.  
 
-[^3-daythree]: I’ve taken this Day One, Day Two, etc approach even though this has been going on for more than a week. It seems like an more appealing way to package this all together. 
+[^1-daythree]: I’ve taken this Day One, Day Two, etc approach even though this has been going on for more than a week. It seems like an more appealing way to package this all together. 
