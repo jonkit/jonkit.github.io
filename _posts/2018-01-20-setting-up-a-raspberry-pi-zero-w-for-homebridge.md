@@ -46,9 +46,9 @@ Run the update and upgrade commands to get everything up-to-date:
 
 A version of node is required to make this all work. I have found success using v4.3.2 on my Raspberry Pi Zero W. Download that version directly from nodejs.org, unarchive the file, and then copy the files to your `/usr/local` directory with the following four commands:  
 
-**July 2018 Update:**  
-
-Running through this setup I came across an error setting up PM2 (one of the last steps). I investigated it and it turns out it was because it required a newer version of node. Knowing that, I have made adjustments to the code below to go from Node.js v4.3.2 to v.4.5.0. Also worth noting - this isn't the first time that I've come across errors with a homebridge on a Raspberry Pi that were related to the version Node.js. If you come across an error in the future and track it down to Node.js, you can view all versions of Node at [this website](https://nodejs.org/dist/) (you will want to use the arm6l version). Swap in the URL below and adjust the `tar` and `cd` commands.
+> **July 2018 Update:**  
+> 
+> Running through this setup I came across an error setting up PM2 (one of the last steps). I investigated it and it turns out it was because it required a newer version of node. Knowing that, I have made adjustments to the code below to go from Node.js v4.3.2 to v.4.5.0. Also worth noting - this isn't the first time that I've come across errors with a homebridge on a Raspberry Pi that were related to the version Node.js. If you come across an error in the future and track it down to Node.js, you can view all versions of Node at [this website](https://nodejs.org/dist/) (you will want to use the arm6l version). Swap in the URL below and adjust the `tar` and `cd` commands.
 
 `wget https://nodejs.org/dist/v4.5.0/node-v4.5.0-linux-armv6l.tar.gz` 
 
