@@ -8,6 +8,6 @@ title: "new-one-test"
 ---
 
 
-<img src="http://theonlysiteever.com/2018-09-06-221518-image._c926.jpg" alt="">
+<img src="http://theonlysiteever.com/assets/2018-09-06-221518-image._c926.jpg" alt="">
 
 New one test!
