@@ -7,9 +7,7 @@ title: Home
 
 {% for post in paginator.posts %}
 
-{% unless post.categories contains 'briefly' %}
-{% unless post.categories contains 'photos' %}
-{% unless post.categories contains 'drafted' %}
+{% if post.categories contains 'post' %}
   
   <article class="post">
     <h3 class="post-title">
@@ -32,9 +30,7 @@ title: Home
     
   </article> 
   
-{% endunless %}
-{% endunless %}
-{% endunless %}
+{% endif %}
 
 {% endfor %}
 
