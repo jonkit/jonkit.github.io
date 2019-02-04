@@ -55,7 +55,7 @@ A version of node is required to make this all work. I have found success using 
 
 > **January 2019 Update:**  
 > 
-> I have received a couple of e-mails mentioning issues that certain homebridge plugins are having problems because of the version of node that is installed. I don't intend to keep this page up-to-date so it's likely that this will always be a problem with newer plugins that require a version of node newer than 4.5.0. If you come across similar issues, you can try using a different version of node. I suspect that newer versions of node will work just fine. In the July 2018 update above, I provide a link to the node distribution site. You can get the full URL for the most recent arm6l version of node and make the corresponding updates to the lines listed below.
+> I received an e-mail mentioning issues that certain homebridge plugins are having problems because they require a newer version of node than the version I list below. I don't intend to keep this page up-to-date so it's likely that this will always be a problem with newer plugins that require a version newer than 4.5.0. If you come across similar issues, you can try using a different version of node. I suspect that newer versions of node will work just fine. In the July 2018 update above, I provide a link to the node distribution site. You can get the full URL for the most recent arm6l version of node and make the corresponding updates to the lines listed below.
 
 `wget https://nodejs.org/dist/v4.5.0/node-v4.5.0-linux-armv6l.tar.gz` 
 
