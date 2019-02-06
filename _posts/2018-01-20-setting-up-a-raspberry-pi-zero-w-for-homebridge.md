@@ -52,6 +52,11 @@ A version of node is required to make this all work. I have found success using 
 > 
 > Running through this setup I came across an error setting up PM2 (one of the last steps). I investigated it and it turns out it was because it required a newer version of node. Knowing that, I have made adjustments to the code below to go from Node.js v4.3.2 to v.4.5.0. Also worth noting - this isn't the first time that I've come across errors with a homebridge on a Raspberry Pi that were related to the version Node.js. If you come across an error in the future and track it down to Node.js, you can view all versions of Node at [this website](https://nodejs.org/dist/) (you will want to use the arm6l version). Swap in the URL below and adjust the `tar` and `cd` commands.
 
+
+> **January 2019 Update:**  
+> 
+> I received an e-mail mentioning issues that certain homebridge plugins are having problems because they require a newer version of node than the version I list below. I don't intend to keep this page up-to-date so it's likely that this will always be a problem with newer plugins that require a version newer than 4.5.0. If you come across similar issues, you can try using a different version of node. I suspect that newer versions of node will work just fine. In the July 2018 update above, I provide a link to the node distribution site. You can get the full URL for the most recent arm6l version of node and make the corresponding updates to the lines listed below.
+
 `wget https://nodejs.org/dist/v4.5.0/node-v4.5.0-linux-armv6l.tar.gz` 
 
 `tar -xvf node-v4.5.0-linux-armv6l.tar.gz` 
