@@ -17,7 +17,7 @@ Now for 2020:
 + Establish a better nighttime routine
 + Meditate fifteen times every month
 + Lose 20 lbs
-+ Listen to music intentionally
++ Listen to music intentionally  
 
 There are repeats from 2019. They are repeats because I did not accomplish them but still want to.  
 
