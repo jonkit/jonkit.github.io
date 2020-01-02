@@ -1,4 +1,10 @@
-# I Hate New Year’s Resolutions, A Recap
+---
+layout: post
+category: post
+date: 2020-01-01 09:41:00 -0400
+permalink: i-hate-new-years-resolutions-a-recap
+title: "I Hate New Year’s Resolutions, A Recap"
+---
 
 I accomplished two of the four goals I set last year. I’m giving myself a break and still counting exercising ten times every month - February, March, April, June, July, and August had 2, 8, 2, 6, 8, and 8 workouts but the other months were 10, 17, 29, 34, 38, and 14 and that includes the final four months of the year. I also did a very good job at putting my personal devices aside, or at the very least using them considerably less, at night. I specify personal because I did find that I was working late at night much more often and that requires my computer.  
 
