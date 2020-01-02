@@ -30,6 +30,10 @@ I’m confident that I will workout regularly in 2020. I need to focus on my ove
 
 Music has always been important to me. I used to go to a lot of concerts and I love talking about music. My children have taken to wanting to listen to music as well (though their taste is questionable). Every time I start to read year-end lists of best songs and albums I always struggle to name my own. I want to spend more time reading about and listening to music.  
 
-There’s a lot of overlap with these goals and if I accomplish them I think that a lot of parts of my life will be greatly improved.
+There’s a lot of overlap with these goals and if I accomplish them I think that a lot of parts of my life will be greatly improved.  
+
+Hope springs eternal.  
+
+Happy New Year everyone.  
 
 PS - it is not lost on my that the previous post on this site is exactly one year ago. Hopefully that’s not the case in 2021.  
