@@ -19,6 +19,7 @@ Now for 2020:
 + Lose 20 lbs
 + Listen to music intentionally  
 
+<br />
 There are repeats from 2019. They are repeats because I did not accomplish them but still want to.  
 
 I’m not calling out reading books but I do want to have a better nighttime routine. I’m classifying this as post 7:00pm when both of my children are generally in their rooms. Spending more time with my wife, exercising, reading, and getting to bed early are all things that would be positives. Mindlessly watching tv, staying up late, eating poorly, and staring at a screen would be negatives.  
