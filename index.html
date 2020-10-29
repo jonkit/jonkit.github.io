@@ -5,11 +5,8 @@ title: Home
 
 <div class="posts"> 
 
-{% for post in site.posts %}
-
-{% unless post.categories contains 'briefly' %}
-{% unless post.categories contains 'photos' %}
-{% unless post.categories contains 'drafted' %}
+{% assign sorted-posts = site.posts | where: "layout","post" %}
+{% for post in sorted-posts %}
   
   <article class="post">
     <h3 class="post-title">
@@ -31,10 +28,6 @@ title: Home
     {{ post.content }}
     
   </article> 
-  
-{% endunless %}
-{% endunless %}
-{% endunless %}
 
 {% endfor %}
 
