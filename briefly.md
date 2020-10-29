@@ -7,7 +7,8 @@ layout: page
   &#x25c7;
 </p>
 
-{% for post in site.categories.briefly offset: 0 limit: 20 %}
+{% assign sorted-posts = site.posts | where: "layout","briefly" %}
+{% for posts in sorted-posts offset: 0 limit: 20 %}
 
 <article class="post">
 
