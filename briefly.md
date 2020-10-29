@@ -8,7 +8,7 @@ layout: page
 </p>
 
 {% assign sorted-posts = site.posts | where: "layout","briefly" %}
-{% for posts in sorted-posts offset: 0 limit: 20 %}
+{% for post in sorted-posts offset: 0 limit: 20 %}
 
 <article class="post">
 
